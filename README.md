@@ -1,5 +1,5 @@
 # bits-pilani-ps-report-template-latex
-LaTex Report for BITS Practice School Reports
+LaTex Template for BITS Practice School Reports
 
 This is an easy to use LaTeX template to generate great Practice School reports. This is heavily influenced by previous thesis templates.
 This template adheres to the exact document specifications for PS reports as of 2021. 
